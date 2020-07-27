@@ -1,5 +1,5 @@
 # DivvyBikes
-To predict the need of bikes baed on weather
+To predict the need of bikes based on weather
 
 Predicting the need of bikes according to season in Chicago in order to ensure that the customers do not have to wait for more bikes, by ensuring the increase or decrease in the number or bikes at the docking station to maintain the profit. We have opted for the most frequently used Divvy station id=35 for the given problem statement. The programming language used here is R (version 3.6).
 
